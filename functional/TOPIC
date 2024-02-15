@@ -1,0 +1,9 @@
+functional programming , why 
+imperative ,declarative
+three core concept: immutable,pure function,first class function
+Lambda function , BiFunction  and Beyond
+function as (data, argument and return type)
+closure,  Higher Order function
+Stream ->(.map(), .filter(), .reduce(),  .collect())
+parallel stream
+Advanced: partial Application, Currying ,Recursion , Composition
